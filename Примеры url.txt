@@ -1,0 +1,7 @@
+Примеры url:
+
+downf/?fname=test.txt
+
+crdir/?dirname=qwerty
+
+deldir/?dirname=qwerty
